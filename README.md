@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi, I'm Mohammad!  <br>I'm a Computer Science undergraduate passionate about software development, AI, and building interactive learning applications. I enjoy creating projects that combine problem-solving with modern technologies like Python, Django, Java, and web development frameworks.  <br><br>💡 Interests: Machine Learning, AI, Web & Mobile Apps, Data Structures & Algorithms.  <br>🚀 Always exploring new technologies and improving my skills.  <br><br>Check out my projects below! 👇<br>
 
 
