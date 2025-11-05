@@ -1,5 +1,5 @@
+<img width="1432" height="356" alt="image" src="https://github.com/user-attachments/assets/50c6a5c1-f397-4d36-b97a-787d9ff0e997" />
 
-![Uploading linkedin-banner.png…]()
 
 👋 Hi, I'm Mohammad!  <br>I'm a Computer Science undergraduate passionate about software development, AI, and building interactive learning applications. I enjoy creating projects that combine problem-solving with modern technologies like Python, Django, Java, and web development frameworks.  <br><br>💡 Interests: Machine Learning, AI, Web & Mobile Apps, Data Structures & Algorithms.  <br>🚀 Always exploring new technologies and improving my skills.  <br><br>Check out my projects below! 👇<br>
 
